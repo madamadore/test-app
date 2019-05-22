@@ -1,2 +1,2 @@
 #!/bin/sh
-git flow release start RELEASE
+git flow release start release
